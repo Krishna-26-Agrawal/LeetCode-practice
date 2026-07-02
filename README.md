@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
