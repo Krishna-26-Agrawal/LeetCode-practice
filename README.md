@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
 | [0520-detect-capital](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0021-merge-two-sorted-lists) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
