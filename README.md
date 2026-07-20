@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
+| [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
