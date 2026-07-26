@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0012-integer-to-roman) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
