@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
+| [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0012-integer-to-roman) |
+| [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
