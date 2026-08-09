@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Depth-First Search
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -205,4 +210,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
