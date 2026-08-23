@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1927-sum-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0020-valid-parentheses) |
 | [0520-detect-capital](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0520-detect-capital) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
