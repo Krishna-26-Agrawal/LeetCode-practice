@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
