@@ -10,8 +10,6 @@ public:
 
         int bobLeave = prefixSum[stoi(leaveBob.substr(0, 2)) - 1] + stoi(leaveBob.substr(3));
 
-        cout << aliceArrive << " " << aliceLeave << " " << bobArrive << " " << bobLeave << endl;
-
         int start = max(aliceArrive, bobArrive);
         int end = min(aliceLeave, bobLeave);
 
