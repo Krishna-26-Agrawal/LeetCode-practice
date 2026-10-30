@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
