@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3731-find-missing-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
