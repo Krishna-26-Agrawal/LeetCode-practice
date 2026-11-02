@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0014-longest-common-prefix) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0012-integer-to-roman) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0836-rectangle-overlap) |
