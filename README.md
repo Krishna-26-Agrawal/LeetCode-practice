@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1882-process-tasks-using-servers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
