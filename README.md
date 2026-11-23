@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1288-remove-covered-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1563-stone-game-v) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -444,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Krishna-26-Agrawal/LeetCode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
